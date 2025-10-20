@@ -4,7 +4,9 @@
 
 **NIOCA** (NSE Index Options Chain Analyzer) is a desktop application designed for traders and analysts to monitor and visualize real-time options chain data for the **NIFTY** and **BANKNIFTY** indices from the National Stock Exchange (NSE) of India. Built with Python and Tkinter, it provides an intuitive GUI for tracking key metrics like spot prices, open interest (OI), change in OI (COI), volume, implied volatility (IV), PCR ratios, and buildup patterns. The app includes live updates, visual alerts, dark/light themes, and market session handling.
 
-This README assumes you are using the pre-compiled **nioca.exe** executable for Windows (compatible with Windows 10/11). The app is free for personal use but expires on **31-Dec-2025**. For business queries or support, email: **niocaoptions@zohomail.in**.
+- The app is free for trial use but expires after **3 trading days**.
+- To get full version, WhatsApp on +91 7249016255
+- For business queries or support, email: **niocaoptions@zohomail.in**.
 
 
 ### Key Highlights
